@@ -1,0 +1,65 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: none;
+	outline: none;
+}
+body {
+	text-align: center;
+	font-family: Arial, Verdana, Sans-serif;
+	font-size: 12px;
+	padding: 30px 0;
+	line-height: 18px;
+}
+body,a {
+	color: #333;
+}
+p {
+	padding-bottom: 10px;
+}
+#wrapper {
+	width: 514px;
+	margin: 0 auto;
+	text-align: left;
+}
+.clearer {
+	width: 100%;
+	clear: both;
+	height: 0;
+}
+#countWrapper {
+	float: left;
+	margin-right: 10px;
+	padding: 5px 10px 0 10px;
+	height: 23px;
+	border: solid 1px #aaa;
+	cursor: default;
+}
+#count {
+	float: left;
+	margin-right: 5px;
+}
+form {
+	width: 100%;
+	float: left;
+	margin-bottom: 16px;
+	clear: both;
+}
+.row {
+	width: 100%;
+	float: left;
+	padding-bottom: 7px;
+}
+.field {
+	border: solid 1px #aaa;
+	padding: 6px;
+	width: 300px;
+}
+
+
+.fade {
+	color: #ccc;
+}
+.highlight {
+	color: #900;
+}
